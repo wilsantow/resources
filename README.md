@@ -7,7 +7,7 @@
 
 ## Tools
 
-- [The Art of command line](https://github.com/jlevy/https://github.com/jlevy/the-art-of-command-line)
+- [The Art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/) - MIT
 
 ## Math
